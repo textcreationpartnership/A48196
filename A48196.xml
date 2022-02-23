@@ -1,0 +1,499 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dangerous rule, or, A sermon preached at Clonmel in the province of Munster in Ireland, upon Aug. 3, 1657 before the reverend judges for that circuit by S.L., Master in Arts, and lately fellow of C.C.C. in Oxon.</title>
+            <author>Ladyman, Samuel, 1625-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 71 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48196</idno>
+            <idno type="STC">Wing L168</idno>
+            <idno type="STC">ESTC R2962</idno>
+            <idno type="EEBO-CITATION">12577775</idno>
+            <idno type="OCLC">ocm 12577775</idno>
+            <idno type="VID">63653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 672:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dangerous rule, or, A sermon preached at Clonmel in the province of Munster in Ireland, upon Aug. 3, 1657 before the reverend judges for that circuit by S.L., Master in Arts, and lately fellow of C.C.C. in Oxon.</title>
+                  <author>Ladyman, Samuel, 1625-1684.</author>
+                  <author>J. E.</author>
+               </titleStmt>
+               <extent>[38], 102 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Tho. Newberry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The epistle dedicatory signed: Sam. Ladyman.</note>
+                  <note>The epistle to the reader signed: J.E.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XIX, 19, 29 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63653:1"/>
+            <pb facs="tcp:63653:1"/>
+            <p>
+               <hi>The Dangerous Rule:</hi> OR, A SERMON Preached at <hi>Clonmel</hi> in the Province of <hi>Mun<g ref="char:EOLhyphen"/>ſter</hi> in <hi>Ireland,</hi> Upon <hi>Aug.</hi> 3. 1657. Before The Reverend Judges for that Circuit.</p>
+            <p>By <hi>S. L.</hi> Maſter in Arts, and lately Fellow of <hi>C.C.C.</hi> in <hi>Oxon.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>London,</hi> printed by <hi>J.C.</hi> for <hi>Tho. Newbery</hi> over againſt the Conduit in <hi>Corn-hill,</hi> 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63653:2" rendition="simple:additions"/>
+            <pb facs="tcp:63653:2"/>
+            <head>To the Right Honourable <hi>Richard Pepys,</hi> Lord Chief Juſtice of the Upper Bench, &amp; Counſel<g ref="char:EOLhyphen"/>lour of State in <hi>Ireland.</hi>
+            </head>
+            <head type="sub">And <hi>John Byſſe,</hi> 
+               <abbr>Eſq</abbr> Recorder of the City of <hi>Dublin;</hi> Judges of Aſsize, For the Province of <hi>Munster.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>IN Obedience to your Lord<g ref="char:EOLhyphen"/>ſhips,
+<pb facs="tcp:63653:3"/>I do here preſent you with a Copy of that Diſ<g ref="char:EOLhyphen"/>courſe which was ſo lately preached before you. I dare not quarrel with it now, leſt that ſhould implicitely Question your Lordſhips Judge<g ref="char:EOLhyphen"/>ments, and the Judgements of ſe<g ref="char:EOLhyphen"/>veral
+<pb facs="tcp:63653:3"/>other perſons of Quality, who have been pleas'd to approve of it: Yet this I muſt ſay, That I was ſo far from thinking it might become the Preſs; as that in ſuch an Audito<g ref="char:EOLhyphen"/>ry, and upon ſo ſo<g ref="char:EOLhyphen"/>lemn an occcaſion, I judg'd it unwor<g ref="char:EOLhyphen"/>thy
+<pb facs="tcp:63653:4"/>of the Pulpit. But ſince your Lordſhips have thought otherwiſe, &amp; becauſe it ſcarce ſavours of good manners to contra<g ref="char:EOLhyphen"/>dict either your Thoughts or Com<g ref="char:EOLhyphen"/>mands, I have thus ſubmitted it to your Lordſhips Plea<g ref="char:EOLhyphen"/>ſures; though I am
+<pb facs="tcp:63653:4"/>not altogether in<g ref="char:EOLhyphen"/>ſenſible what ſun<g ref="char:EOLhyphen"/>dry prejudices will attend it. <hi>'Tis ſuited</hi> to a particu<g ref="char:EOLhyphen"/>lar Seaſon, and therefore, like mu<g ref="char:EOLhyphen"/>ſical notes, harmo<g ref="char:EOLhyphen"/>nious in their due time and place, but nothing leſs when diſ-joyned from theſe: nor dare I
+<pb facs="tcp:63653:5"/>wiſh, that it might again become fa<g ref="char:EOLhyphen"/>ſhionable, ſince <hi>that</hi> were to imprecate publick miſchiefs. <hi>'Twill be diſtaſted by ſome,</hi> becauſe it ſeems to derogate from the deſerved worth of a good Conſcience; though its Author was ſo far from this, that
+<pb facs="tcp:63653:5"/>he could more glad<g ref="char:EOLhyphen"/>ly have pleaded a<g ref="char:EOLhyphen"/>gainſt Laws with<g ref="char:EOLhyphen"/>out this Balance, then againſt Con<g ref="char:EOLhyphen"/>ſcience without their Conduct: only men were leaning rather towards the later extreme; and if he ſeems to bend a crooked Tree too much on the con<g ref="char:EOLhyphen"/>trary
+<pb facs="tcp:63653:6"/>hand, his in<g ref="char:EOLhyphen"/>tent is no other but to make it ſtraight in the cloſe. <hi>'Twill be cenſured</hi> by o<g ref="char:EOLhyphen"/>thers, for prefer<g ref="char:EOLhyphen"/>ing <hi>Achitophel</hi> before <hi>David;</hi> for advancing carnal Reaſon too highly, &amp; too much ſlight<g ref="char:EOLhyphen"/>ing the aſsiſtance of Gods Spirit: but this
+<pb facs="tcp:63653:6"/>was as far from my thoughts, as to ſpeak of it, had been beſides my purpoſe. That the Lord doth thus eminently help thoſe, who by pray<g ref="char:EOLhyphen"/>er and faith, wait upon him, is a moſt comfortable and precious truth: yet I humbly conceive, that ſuch aſsiſtance
+<pb facs="tcp:63653:7"/>can be expected on<g ref="char:EOLhyphen"/>ly in thoſe <hi>Under<g ref="char:EOLhyphen"/>takings,</hi> to which God calls men, not to which they call themſelves: And then too, in the di<g ref="char:EOLhyphen"/>ligent uſe, not in the ſlothful &amp; ſu<g ref="char:EOLhyphen"/>percilious neglect of lawful means: for this leſſon the Cre<g ref="char:EOLhyphen"/>ator hath taught
+<pb facs="tcp:63653:7"/>us by his own pra<g ref="char:EOLhyphen"/>ctice: If Omnipo<g ref="char:EOLhyphen"/>tency deſign the reſtauration of a languiſhing <hi>Heze<g ref="char:EOLhyphen"/>kiah,</hi>
+               <note place="margin">Iſa. 38.21. Joh. 9.6.</note> or his ſight who was born blind; a lump of figs, clay, &amp; ſpittle muſt be applied: And as diſeaſes in the natural body are not curable
+<pb facs="tcp:63653:8"/>without Phyſick; ſo neither thoſe in the Politick without Laws. Nor have I pleaded for what's amiſs in theſe: 'tis true, I have com<g ref="char:EOLhyphen"/>pared them to the ſweeteſt Muſick; and do, I confeſs, judge <hi>known Laws</hi> the beauty and harmony of a
+<pb facs="tcp:63653:8"/>Commonwealth; yet if this Harp be out of tune, or want a ſtring, let ſome skilful ear, and cautious hand be intruſted with its Reformation. But to vote Laws re<g ref="char:EOLhyphen"/>dundant and un<g ref="char:EOLhyphen"/>neceſſary, as too many have done; to break theſe
+<pb facs="tcp:63653:9"/>bands in ſunder, &amp; caſt theſe ſilken Cords of Reaſon from us, were to antidate Divine vengeance in one of its moſt terrible threatnings; even with our own hands to ſtretch out upon theſe Nations the line of confuſion, and the ſtones of
+<pb facs="tcp:63653:9"/>emptineſs. This Diſcourſe is yet ſubject to a farther diſadvantage; 'twil fall, no doubt, into the hands of ma<g ref="char:EOLhyphen"/>ny, whom obſcurity or non-obſervation of our late Exorbi<g ref="char:EOLhyphen"/>tancys, may render ſtrangers to its juſt ground and plenti<g ref="char:EOLhyphen"/>ful occaſion; though
+<pb facs="tcp:63653:10"/>this was not only the over-jealous ſurmiſes of ſome, nor the diſcontent<g ref="char:EOLhyphen"/>ed and ſecret mut<g ref="char:EOLhyphen"/>terings of others; but things viſibly acting both in our Native Country, and here: Nor could the utmoſt care of our Honor<g ref="char:EOLhyphen"/>able and pious Go<g ref="char:EOLhyphen"/>vernors
+<pb facs="tcp:63653:10"/>(their Ex<g ref="char:EOLhyphen"/>cellencies the Lord Deputy <hi>Ireton,</hi> whoſe memory is ſtill precious; the Lord Deputy <hi>Fleet<g ref="char:EOLhyphen"/>wood,</hi> a perſon ſo eminently gracious, that this Age hath ſcare parallel'd him; the Lord <hi>Henry Cromwel,</hi> whom God hath
+<pb facs="tcp:63653:11"/>furniſhed with wiſdom &amp; conduct even to admirati<g ref="char:EOLhyphen"/>on:) I ſay, the ut<g ref="char:EOLhyphen"/>moſt care of theſe, and of thoſe other worthies, who were ſtill drawing in the ſame yoke with them, could not ſuddenly redreſs this: for when once a Diſtemper hath
+<pb facs="tcp:63653:11"/>ſeiz'd the blood &amp; vital Spirits, the head may more ea<g ref="char:EOLhyphen"/>ſily condole then cure it. And really we, in this flegmatick climate, grew ſtrangely in<g ref="char:EOLhyphen"/>fected with that State-malady, this following <hi>Sermon</hi> declares against: ſome Perſons of
+<pb facs="tcp:63653:12"/>very conſiderable Quality, were not aſham'd to tell you, <hi>that they expected are long to carry all the Law of</hi> England <hi>in their pockets.</hi> Nor were theſe eſteem'd ſuch Lovers of Books, as to make that Pocket-Com<g ref="char:EOLhyphen"/>panion very bulkiſh
+<pb facs="tcp:63653:12"/>neither. I cannot but ſmile, (and the Lord grant it may be with a thankful heart) when I call to mind how neat<g ref="char:EOLhyphen"/>ly we were courted by the ſmooth and ſtill voice of plau<g ref="char:EOLhyphen"/>ſibility, into a con<g ref="char:EOLhyphen"/>ſent to our own ruine. And that deſign goes on moſt
+<pb facs="tcp:63653:13"/>dangerouſly, which makes leaſt noiſe: for the ſcreaking wheel is more in<g ref="char:EOLhyphen"/>terrupted then the ſilent. But I muſt humbly crave your Lordſhips pardon for this tedious di<g ref="char:EOLhyphen"/>verſion from your more ſerious Em<g ref="char:EOLhyphen"/>ployments; and I ſhall here break it
+<pb facs="tcp:63653:13"/>off, the rather be<g ref="char:EOLhyphen"/>cauſe 'tis no leſs then a publick In<g ref="char:EOLhyphen"/>jury. That the weighty <g ref="char:V">Ʋ</g>nderta<g ref="char:EOLhyphen"/>kings now recom<g ref="char:EOLhyphen"/>mended to your care, may be ma<g ref="char:EOLhyphen"/>nag'd in the fear of that God, before whoſe more dread<g ref="char:EOLhyphen"/>ful Tribunal your ſelves with the
+<pb facs="tcp:63653:14"/>meanest of thoſe whom you are now to ſentence, muſt ere long appear; ſhall be his earneſt requeſt at the Throne of Grace, who is,</p>
+            <closer>
+               <dateline>
+                  <hi>From my Study in</hi> Clonmel, <date>Auguſt <hi>5. 1657.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your Lord<g ref="char:EOLhyphen"/>ſhips moſt unworthy Servant,</hi> Sam. Ladyman.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:63653:14"/>
+            <head>The EPISTLE to the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THis enſuing Diſcourſe is adapted to the tem<g ref="char:EOLhyphen"/>per of the times, &amp; ſmartly militates againſt the wild<g ref="char:EOLhyphen"/>neſs of irregular Deciſions
+<pb facs="tcp:63653:15"/>and Determinations; and was therefore deſervedly courted to come forth, and appear upon a publick Stage: that ſo in it, as in a Glaſs, the World might behold the Monſtroſity, &amp; rugged deformity of Con<g ref="char:EOLhyphen"/>ſcience, when ſeated upon the Throne, as Queen Regent; whilſt ſtanding Laws are conſtrain'd to lie gaſping under her Imperi<g ref="char:EOLhyphen"/>ous Feet, and are ſullied unto the reproach of uſe<g ref="char:EOLhyphen"/>leſs and abſurd.</p>
+            <pb facs="tcp:63653:15"/>
+            <p>The declared Deſign is to make Conſcience a Court of Chancery, to mitigate the rigour of the Laws, as if they were a Torrid zone, under which there were no living. The follow<g ref="char:EOLhyphen"/>ing Hints and Obſervati<g ref="char:EOLhyphen"/>ons, are in order to thy ſatisfaction.</p>
+            <p n="1">1 There are many in the World, who appearing before the Bar of Conſci<g ref="char:EOLhyphen"/>ence, have gone away complaining, that her little Finger hath lain heavier
+<pb facs="tcp:63653:16"/>on them, then the dreaded Loins of the Law. None have been more miſerably hampered, perplexed, and injuriouſly oppreſſed, then ſuch, who (if we would be ſo ſimple as to believe ſome men) have been moſt conſcionably dealt withal.</p>
+            <p n="2">2 They who are againſt Law, are uſually ſuch as are ignorant of the Laws, and underſtand not the Profundity and Equity of them; and how they are with much myſterious
+<pb facs="tcp:63653:16"/>wiſdom, contrived and ac<g ref="char:EOLhyphen"/>commodated to the ſtate and condition of the peo<g ref="char:EOLhyphen"/>ple, whoſe obedience to them is exacted.</p>
+            <p n="3">3 They who would lay aſide the uſe of Humane Laws, are uſually ſuch as ſpeak undervaluingly of the Law of God, and reject it as a Rule.</p>
+            <p n="4">4 They who would have their own Conſciences Judges in other mens mat<g ref="char:EOLhyphen"/>ters, will hardly be per<g ref="char:EOLhyphen"/>ſwaded to run the hazard
+<pb facs="tcp:63653:17"/>of ſtanding to the Verdict of another Man's Conſci<g ref="char:EOLhyphen"/>ence, eſpecially if the Law be for him.</p>
+            <p n="5">5 Conſcience is wont to favour the Cauſe of ſuch as are of correſponding Principles. Sameneſs of Opinion often turns the Scales. How often hath a diſſent in Judgement, though mixed with abun<g ref="char:EOLhyphen"/>dance of tenderneſs, made men dance attendance, for a juſt Diſpatch? which great Inconveniency had
+<pb facs="tcp:63653:17"/>been prevented, if pre<g ref="char:EOLhyphen"/>ſcribed Rules had been obſerved.</p>
+            <p n="6">6 It's obſervable, that many who are inveſted with a Military Capacity, are no great Friends to the Laws of the Land. A Juſtice of Peace is looked upon with an evil Eye, by a Man of War. Col<g ref="char:EOLhyphen"/>ledges are accounted dan<g ref="char:EOLhyphen"/>gerous Citadels, which muſt therefore be aſſault<g ref="char:EOLhyphen"/>ed; and Courts of Juſtice, ſtrong Holds, poſſeſſed by
+<pb facs="tcp:63653:18"/>men of dangerous impo<g ref="char:EOLhyphen"/>ſing Principles, which muſt therefore be demo<g ref="char:EOLhyphen"/>liſhed. Books and Re<g ref="char:EOLhyphen"/>cords are the Enemies Ammunition, which muſt be ſeized on, that ſo the Adverſe Party may be weakned. Laws have been ſo accuſtomed to deep ſi<g ref="char:EOLhyphen"/>lence in times of War and publick Conteſt, that Men cannot endure they ſhould ever after be heard to ſpeak out, and declare their Mind freely.</p>
+            <pb facs="tcp:63653:18"/>
+            <p n="7">7 Where Conſcience bears the ſway in the Com<g ref="char:EOLhyphen"/>monwealth, it would like<g ref="char:EOLhyphen"/>wiſe be Supreme in the Church; abhorring all Forms and obliging Rules, but its own: and what hath been the Product of this, let our preſent Confuſions teſtifie. Liberty in Opini<g ref="char:EOLhyphen"/>on, will quickly reſolve into a Liberty in Practice. Thus are Men's Souls de<g ref="char:EOLhyphen"/>ſtroyed, under pretence of preſerving their juſt Li<g ref="char:EOLhyphen"/>berties from being invaded</p>
+            <pb facs="tcp:63653:19"/>
+            <p n="8">8 Their acquaintance with <hi>Ireland</hi> is but very ſlender, who have not known it a place abound<g ref="char:EOLhyphen"/>ing with Civil as well as Sacred Antinomians. How refreſhing is that Winde to the diſconſolate In<g ref="char:EOLhyphen"/>habitants of a weary Land, which frowningly blows in the Faces of ſuch as have approved themſelves to be keen Enemies to <hi>Irelands</hi> Peace and Settle<g ref="char:EOLhyphen"/>ment? ſo that Law as well as Religion, begins
+<pb facs="tcp:63653:19"/>to lift up the Head out of a Deluge and Inundation of boiſterous Diſcourage<g ref="char:EOLhyphen"/>ments, with which it was overwhelmed; which is unto us as a Reſurrection from the Dead, and as Light breaking forth out of Obſcurity.</p>
+            <p>This ſmall Tract hath in it much reaſon; which, if attended, may ſerve to convince Gain-ſayers, and confirm the Orthodox: which, that it may do,
+<pb facs="tcp:63653:20"/>is the Prayer of him, who is a Friend to the Laws both of God and Man,</p>
+            <closer>
+               <signed>J.E.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:63653:20"/>
+            <head>A SERMON preached at <hi>Clon<g ref="char:EOLhyphen"/>mel</hi> in <hi>Ireland.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 SAM. 19.29.</hi>
+                  </bibl>
+                  <p>
+                     <hi>I have ſaid, Thou and Ziba divide the land.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Here the word of a king is, there is power.</hi> If <hi>Da<g ref="char:EOLhyphen"/>vid</hi> ſaid it, who durſt
+<pb n="2" facs="tcp:63653:21"/>contradict it? The Son's Precept, <hi>Eccleſ.</hi> 8.4. was but a Tranſcript of the Father's Pra<g ref="char:EOLhyphen"/>ctice: though the Ver<g ref="char:EOLhyphen"/>dict he here paſſed be ever ſo unreaſonable, yet may not <hi>Mephibo<g ref="char:EOLhyphen"/>ſheth</hi> ſay unto him, <hi>What doſt thou?</hi>
+            </p>
+            <p>I know there are ſome learned and wor<g ref="char:EOLhyphen"/>thy Authors, (as you may read in their Comments upon this Scripture) who would have this Text to ſpeak no more, then <hi>David</hi>'s ratifying his former princely Act of Grace and free Donation, re<g ref="char:EOLhyphen"/>corded,
+<pb n="3" facs="tcp:63653:21"/>
+               <hi>chap.</hi> 9.9, 10. But we muſt beg leave at preſent to diſ<g ref="char:EOLhyphen"/>ſent from theſe, and to ſide with ſuch as differ from them; the rather, becauſe the <hi>Context</hi> ſeems to warrant our ſo doing.</p>
+            <p>I did lately in this place, and upon the like occaſion, lay down the <hi>Nature, Bounds, and End of an Oath:</hi> and as the Sub<g ref="char:EOLhyphen"/>ject of that Diſcourſe, did principally con<g ref="char:EOLhyphen"/>cern <hi>the Witneſſes;</hi> ſo ſhall this, <hi>the Judge.</hi>
+            </p>
+            <p>In the words now read unto you, there
+<pb n="4" facs="tcp:63653:22"/>are theſe Branches.</p>
+            <list>
+               <item>1. A <hi>Controverſie de<g ref="char:EOLhyphen"/>cided</hi> betwixt <hi>Ziba</hi> and <hi>Mephiboſheth.</hi>
+               </item>
+               <item>2. The <hi>matter both of this Deciſion and Contro<g ref="char:EOLhyphen"/>verſie;</hi> the Life, good Name, and whole E<g ref="char:EOLhyphen"/>ſtate of <hi>Mephiboſheth:</hi> for had the Treaſon <hi>Ziba</hi> charg'd him with, been made good; he had forfeited all.</item>
+               <item>3. The <hi>Judge,</hi> and 'twas <hi>David,</hi> a wiſe and holy Man, one after God's own Heart, <hi>Act.</hi> 13.22. one deeply en<g ref="char:EOLhyphen"/>gaged, both by Friend<g ref="char:EOLhyphen"/>ſhip and Covenant, to <hi>Jonathan</hi> and his Seed,
+<pb n="5" facs="tcp:63653:22"/>1 <hi>Sam.</hi> 20.15, 42.</item>
+               <item>4. The <hi>Definitive,</hi> though moſt unjuſt <hi>Sen<g ref="char:EOLhyphen"/>tence,</hi> That the Plain<g ref="char:EOLhyphen"/>tiff and Defendant ſhould part ſtakes: the Land muſt be equally divided, betwixt abus'd <hi>Mephiboſheth,</hi> and his perfidious Servant.</item>
+               <item>5. Laſtly, A <hi>double Cauſe</hi> of this untoward Decree: the one ap<g ref="char:EOLhyphen"/>pears in open and pub<g ref="char:EOLhyphen"/>lick view; the other lies more cloſe in <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Boſome. The latter of theſe we call, <hi>Proegumena;</hi> the for<g ref="char:EOLhyphen"/>mer, <hi>Procatarctica.</hi>
+               </item>
+            </list>
+            <p n="1">1. The <hi>Cauſa Pro<g ref="char:EOLhyphen"/>catarctica,</hi>
+               <pb n="6" facs="tcp:63653:23"/>was <hi>Ziba</hi>'s Treachery, Bribes, and Falſhood; together with his plauſible ma<g ref="char:EOLhyphen"/>nagement of thoſe his Calumnies: and pro<g ref="char:EOLhyphen"/>bable Slanders,<note place="margin">2 <hi>Sam.</hi> 16.3.</note> if ſub<g ref="char:EOLhyphen"/>tilly order'd, with o<g ref="char:EOLhyphen"/>ver-credulous Judges, do very eaſily paſs for Truths.</p>
+            <p n="2">2. The <hi>Cauſa Proe<g ref="char:EOLhyphen"/>gumena,</hi> was that Arbi<g ref="char:EOLhyphen"/>trary, yet lame Rule by which <hi>David</hi> pro<g ref="char:EOLhyphen"/>ceeded; this not being, what it ought to have been, the known Laws of that Com<g ref="char:EOLhyphen"/>monwealth; but ei<g ref="char:EOLhyphen"/>ther his Princely Plea<g ref="char:EOLhyphen"/>ſure,
+<pb n="7" facs="tcp:63653:23"/>or Private Con<g ref="char:EOLhyphen"/>ſcience; for both ſeem lapp'd up in the Pro<g ref="char:EOLhyphen"/>logue prefixed to his Deciſion, <hi>Why ſpeakest thou any more of thy mat<g ref="char:EOLhyphen"/>ters?</hi> thou knoweſt we have more weighty Affairs now in hand, which would not be thus interrupted: Be<g ref="char:EOLhyphen"/>ſides, <hi>I have ſaid, Thou and Ziba divide the land;</hi> that is, I have heard, as his Accuſation, ſo thy Defence; and do think it very unconſcionable for thee to forfeit all, yet loath am I that <hi>Zi<g ref="char:EOLhyphen"/>ba</hi> ſhould have no<g ref="char:EOLhyphen"/>thing: wherefore 'twill
+<pb n="8" facs="tcp:63653:24"/>not be amiſs <hi>to divide the Eſtate;</hi> however, I am reſolv'd to have ſo, nor will I reverſe my Sentence.</p>
+            <p>Though each Branch of this Text would af<g ref="char:EOLhyphen"/>ford us ſeveral pithy Obſervations, yet we muſt wave them at preſent; and from the Judge, his Sentence, and the Rule by which he proceeded, raiſe on<g ref="char:EOLhyphen"/>ly this Doctrine:</p>
+            <p>
+               <hi>That without the gui<g ref="char:EOLhyphen"/>dance and ſuperintenden<g ref="char:EOLhyphen"/>cy of known Laws,</hi>
+               <note place="margin">Doct.</note> 
+               <hi>the Conſciences, even of wiſe and good men, are but an unſafe Rule in matters of Judicature.</hi>
+            </p>
+            <pb n="9" facs="tcp:63653:24"/>
+            <p>Were the Scripture ſilent in all other places, yet is this one Example to prove this Doctrine abun<g ref="char:EOLhyphen"/>dantly ſufficient. The leaſt <hi>David</hi> could have done in this Cafe, had the Equity of that known Law, recorded in theſe words, <hi>Life for life, eye for eye, tooth for tooth,</hi> Deut. 19.21. had this, I ſay, been his Control and Guide, he could not have done leſs, then reſtored <hi>Me<g ref="char:EOLhyphen"/>phiboſheth</hi> to his whole Eſtate, and hang'd up <hi>Ziba</hi> for his ſlanderous Accuſation: for ſince,<note place="margin">
+                  <hi>Pſal.</hi> 101.5.</note>
+               <pb n="10" facs="tcp:63653:25"/>if that had been true, the Maſter had deſerv'd to loſe his head; it be<g ref="char:EOLhyphen"/>ing falſe, 'twas but e<g ref="char:EOLhyphen"/>qual that the Servant ſhould forfeit his. And even at this day, among the Turks, the falſe Witneſs undergoes that puniſhment, which the Accuſed, had the Charge been proved, was liable to ſuffer.</p>
+            <p>But no longer to in<g ref="char:EOLhyphen"/>ſiſt upon this Example in the Text it ſelf, our Saviour ſeems to juſti<g ref="char:EOLhyphen"/>fie the Truth of this Propoſition,<note place="margin">Proof</note> while he refuſes to act by ſo Ar<g ref="char:EOLhyphen"/>bitrary a Rule, as his
+<pb n="11" facs="tcp:63653:25"/>own Will or Conſci<g ref="char:EOLhyphen"/>ence: for me thinks we may ſo underſtand him, <hi>Luke</hi> 12.13, 14. <hi>Who made me a Judge or a Divider over you?</hi> As if he had ſaid, You know I am not en<g ref="char:EOLhyphen"/>truſted with the ma<g ref="char:EOLhyphen"/>nagement of thoſe Laws, by which Con<g ref="char:EOLhyphen"/>troverſies about <hi>Meum &amp; Tuum</hi> ought to be decided; and to deter<g ref="char:EOLhyphen"/>mine theſe Differences by a Rule ſo boundleſs, as mens own private Judgments, is not ſafe; nor ſhall I do it.</p>
+            <p>I believe there were o<g ref="char:EOLhyphen"/>ther <hi>Inducements,</hi> which
+<pb n="12" facs="tcp:63653:26"/>perſwaded Chriſt to wave, what this impor<g ref="char:EOLhyphen"/>tunate Suitor would have put upon him: <hi>Per<g ref="char:EOLhyphen"/>haps,</hi> leſt intermedling with Temporals, ſhould interrupt that more ne<g ref="char:EOLhyphen"/>ceſſary &amp; ſpiritual work for which he was ſent: <hi>Perhaps,</hi> that he might not cheriſh the then-almoſt Epidemical mi<g ref="char:EOLhyphen"/>ſtake concerning the <hi>Meſsias,</hi> of his coming a Temporal Prince: Or, <hi>perhaps,</hi> that he might not give his Ad<g ref="char:EOLhyphen"/>verſaries an occaſion to charge him with an affection of Juriſdi<g ref="char:EOLhyphen"/>ction or Magiſterial
+<pb n="13" facs="tcp:63653:26"/>Power over the Peo<g ref="char:EOLhyphen"/>ple. But as theſe wiſe and holy Ends had their Influence upon him, ſo might that al<g ref="char:EOLhyphen"/>ſo which we firſt aſ<g ref="char:EOLhyphen"/>ſign'd.</p>
+            <p>The laſt Proof I ſhall trouble you with at this time, ſhall be that raſh and rigorous Sen<g ref="char:EOLhyphen"/>tence denounc'd a<g ref="char:EOLhyphen"/>gainſt the Samaritans, by <hi>James</hi> and <hi>John,</hi> Luk. 9.54. how do the Conſciences of theſe men, though Chriſt's own Diſciples, like <hi>Sul<g ref="char:EOLhyphen"/>phurous Aetna,</hi> belch our flames? how gladly could they have tranſ<g ref="char:EOLhyphen"/>formed
+<pb n="14" facs="tcp:63653:27"/>that Samaritan Village, into another <hi>Sodom?</hi> yea, what ſa<g ref="char:EOLhyphen"/>tisfaction to them, for thoſe Clouds which drop'd Fatneſs upon o<g ref="char:EOLhyphen"/>ther places, to rain Fire upon this?</p>
+            <p>But to draw neerer our own Times, we may remember when Conſcience ſate as a Queen upon the Su<g ref="char:EOLhyphen"/>preme Seats of Judica<g ref="char:EOLhyphen"/>ture in this Common<g ref="char:EOLhyphen"/>wealth; when ſhe a<g ref="char:EOLhyphen"/>cted without Control, and advanc'd her ſelf above all we called Law: did ſhe not then give ſufficient proof
+<pb n="15" facs="tcp:63653:27"/>what a dangerous Pi<g ref="char:EOLhyphen"/>lot we were like to find her? In what an inſo<g ref="char:EOLhyphen"/>lent and furious manner began ſhe to invade our Rights, both as Chriſtians &amp; as Men? Had her Magiſterial Dictates ſtood, our two ſtanding Ordinances muſt have fallen; our Laws had now lain bu<g ref="char:EOLhyphen"/>ried in that heap of confuſion, which had been but the unavoid<g ref="char:EOLhyphen"/>able conſequence of their own ſubverſion; our Teachers had been driven into corners; our Goſpel-Sun had been wrap'd up in a
+<pb n="16" facs="tcp:63653:28"/>plenary Eclipſe; our Eloquent Orators, and Learned Councellors, had been numbered a<g ref="char:EOLhyphen"/>mong unneceſſaries: in <hi>England,</hi> our Books, our Colledges had been burn'd; in <hi>Ireland,</hi> drown'd: here a De<g ref="char:EOLhyphen"/>luge; there a Flame, had been their Execu<g ref="char:EOLhyphen"/>tioner. Had the De<g ref="char:EOLhyphen"/>crees of Conſcience ſtood, our Charity had been as cold as our Zeal was hot; men not onely ſtraitning their Bowels, and re<g ref="char:EOLhyphen"/>fuſing to give; but widening their Arms with reſolution, to take
+<pb n="17" facs="tcp:63653:28"/>away what our pious Anceſtors had beſtow<g ref="char:EOLhyphen"/>ed. Never could <hi>Dio<g ref="char:EOLhyphen"/>nyſius</hi> applaud himſelf more in his Sacriledge, when he ſpoil'd <hi>Aeſcu<g ref="char:EOLhyphen"/>lapius</hi> of his Golden Beard, and <hi>Jupiter O<g ref="char:EOLhyphen"/>lympius</hi> of his coſtly Robe; then we our ſelves in our Religious Plunder: the Alms of the Sick and Lame, the Fatherleſs and the Wi<g ref="char:EOLhyphen"/>dow, were by Conſci<g ref="char:EOLhyphen"/>ence voted a well-pleaſing booty, even by ſome reputed both <hi>judicious</hi> and <hi>godly.</hi>
+            </p>
+            <p>And thus both by Scripture and Experi<g ref="char:EOLhyphen"/>ence,
+<pb n="18" facs="tcp:63653:29"/>we have proved our Doctrine:</p>
+            <q>
+               <hi>That without the gui<g ref="char:EOLhyphen"/>dance and ſuperintenden<g ref="char:EOLhyphen"/>cy of known Laws, the Conſciences,</hi> &amp;c.</q>
+            <p>The Grounds or Reaſons of this Point, are ſeveral: I ſhall demonſtrate it by a fivefold Argument.</p>
+            <p>The firſt is taken from <hi>known Laws,</hi>
+               <note place="margin">
+                  <hi>Arg.</hi> 1.</note> 
+               <hi>what they are.</hi> And why may I not call them the ve<g ref="char:EOLhyphen"/>ry Heart and Soul of a Commonwealth, the Hinges upon which it turns, and the Baſis up-upon which 'tis built? Theſe lick'd the Civil
+<pb n="19" facs="tcp:63653:29"/>Body (which other<g ref="char:EOLhyphen"/>wiſe had been but <hi>Ru<g ref="char:EOLhyphen"/>dis, indigeſta<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Moles,</hi> a confuſed Lump, an heap of Rubbiſh, a meer Chaos) into that comely ſhape which now adorns it. A Kingdom without Laws,<note place="margin">
+                  <hi>Iſai.</hi> 34.13.</note> is rather a Den of Thieves, a Court for Owls,<note place="margin">
+                  <hi>Iſai.</hi> 13.21.</note> an Habita<g ref="char:EOLhyphen"/>tion for Dragons, a Place much fitter for Satyrs to dance, and for Monſters to hide themſelves, then for Men to dwell in. So highly did the <hi>Aga<g ref="char:EOLhyphen"/>thyrſi</hi> prize their Laws, that in <hi>Ariſtotle</hi>'s time,
+<pb n="20" facs="tcp:63653:30"/>for remembrance ſake, they ſang them; as o<g ref="char:EOLhyphen"/>thers did alſo before Letters were invented: whence ſome will have the Rules of Muſick called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and doubt<g ref="char:EOLhyphen"/>leſs the raviſhing Me<g ref="char:EOLhyphen"/>lody of <hi>Orpheus</hi> his Harp, was no other then the harmonious murmur of wholeſom Laws, by which he drew Beaſts, or Men as rude as they, into Humane Society. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Known Laws are for the moſt part, but ſo many commendable Cuſtomes in black and
+<pb n="21" facs="tcp:63653:30"/>white; the Wiſdom and Experience of for<g ref="char:EOLhyphen"/>mer Ages, bundled up, and tranſmitted to Po<g ref="char:EOLhyphen"/>ſterity: and what a folly to place Conſci<g ref="char:EOLhyphen"/>ence, which is but of yeſterday, and knows little, in the room of theſe? Nor may the narrowneſs of humane Underſtandings, the weakneſs of Mens Judgments, derogate from their juſt Repute; for though there be but a little Light in a Glow-worm, a little Heat in a Spark; yet many of theſe together, will afford a moderate-Luſtre,
+<pb n="22" facs="tcp:63653:31"/>a convenient Warmth. And ſuppoſe there be but a ſmal pit<g ref="char:EOLhyphen"/>tance, but a ſingle beam of Light, but a ſpark of Knowledge in a ſingle Intellect; yet doth not this reflect upon thoſe Laws, which were the Products of Concen<g ref="char:EOLhyphen"/>tricated Beams; of ſundry Sparks laid to<g ref="char:EOLhyphen"/>gether, and blown into a Flame: I mean, of many well-informed Conſciences and Un<g ref="char:EOLhyphen"/>derſtandings, united in a glittering Conſtella<g ref="char:EOLhyphen"/>tion; and ſitting in Council for their Good, who live under
+<pb n="23" facs="tcp:63653:31"/>their Influence: For, what more proper Pe<g ref="char:EOLhyphen"/>riphraſis, then this of a Parliament? what was the Roman Se<g ref="char:EOLhyphen"/>nate, but ſuch? Now to trample under our feet the ſerious and un<g ref="char:EOLhyphen"/>byaſs'd Deliberations of theſe Aſſemblies; to contemn the twiſted ſtrength of known Laws, thoſe well-com<g ref="char:EOLhyphen"/>pacted Combinations of Conſcience and Judgment; and above theſe, to exalt the ſhal<g ref="char:EOLhyphen"/>low capacities of ſingle men; were to com<g ref="char:EOLhyphen"/>plain of going to <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> and to erect
+<pb n="24" facs="tcp:63653:32"/>Calves at <hi>Bethel:</hi> to call Law, a burthen<g ref="char:EOLhyphen"/>ſom piece of Exube<g ref="char:EOLhyphen"/>rancy; to cry againſt this Political Stru<g ref="char:EOLhyphen"/>cture, ſaying, <hi>Race it, race it, even to the foun<g ref="char:EOLhyphen"/>dation:</hi> what is this but to remove the ancient Land-Mark, plac'd by Prudence and Ne<g ref="char:EOLhyphen"/>ceſſity? to pluck up the Hedge, and lay all in Common: and then the <hi>Nimrods</hi> of that Age, the mighty Hun<g ref="char:EOLhyphen"/>ters, would divide the Spoil. I never think of this Deſign, and its Promoters, how hand<g ref="char:EOLhyphen"/>ſomely they laboured
+<pb n="25" facs="tcp:63653:32"/>to cheat us of our Laws, (the only Guardians of our Eſtates and Lives) but it mindes me of the Wolf in the Fable, who advis'd the Sheep to diſ<g ref="char:EOLhyphen"/>miſs their Dogs, that he at pleaſure might de<g ref="char:EOLhyphen"/>vour them.</p>
+            <p>If any ſhould here ob<g ref="char:EOLhyphen"/>ject thoſe miſchiefs which too often have at<g ref="char:EOLhyphen"/>tended Laws; that,<note place="margin">Object.</note> like the Bramble, they tear the Fleece, rather then ſhelter the Sheep: that they ſerve onely to per<g ref="char:EOLhyphen"/>plex poor men; and are themſelves wreſted by the wealthier; or, as Spiders Webs, catch leſ<g ref="char:EOLhyphen"/>ſer
+<pb n="26" facs="tcp:63653:33"/>Flyes, while the greater eſcape:</p>
+            <p>We might in part de<g ref="char:EOLhyphen"/>ny this charge.<note place="margin">Anſw.</note> But ſup<g ref="char:EOLhyphen"/>poſe 'twere true; There is one Maxime which fully anſwers it: <hi>Abuſus non tollit uſum;</hi> the abuſe of a thing, can neither null its uſe, nor in Ju<g ref="char:EOLhyphen"/>ſtice leſſen its credit: for if ſo, what ſhall we think of the choiceſt Bleſſings, which are a<g ref="char:EOLhyphen"/>bus'd to Gluttony and Drunkenneſs? yea, of that Manna, and Food of precious Souls, the Scripture it ſelf, which ſome wreſt to their own and others deſtruction, 2 <hi>Pet.</hi> 3.16.</p>
+            <pb n="27" facs="tcp:63653:33"/>
+            <p>Beſides, the Evils be<g ref="char:EOLhyphen"/>fore alledged, cannot in Equity be charged upon the Rule; but upon thoſe who ſo wickedly managed it: and if their actings were ſo enor<g ref="char:EOLhyphen"/>mous, while they had a juſt and righteous Law to guide and check them; how much more irregular would theſe have been, had they been a Law unto them<g ref="char:EOLhyphen"/>ſelves?</p>
+            <p>This is the firſt Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>The ſecond is taken from <hi>Conſcience,</hi>
+               <note place="margin">
+                  <hi>Arg.</hi> 2.</note> 
+               <hi>what that is:</hi> and under this Head, we have five Reaſons:
+<pb n="28" facs="tcp:63653:34"/>for we ſhall by and by ſhew you, that <hi>Conſci<g ref="char:EOLhyphen"/>ence, even in wiſe and good men,</hi> is,
+<list>
+                  <item>1. a ſubordinate;</item>
+                  <item>2. a flexible;</item>
+                  <item>3. a de<g ref="char:EOLhyphen"/>fective;</item>
+                  <item>4. an uncertain;</item>
+                  <item>5. an arbitrary Rule: and each to theſe are enough to prove it (without the guidance of known Laws) a moſt dangerous Pilot in matters of Judicature.</item>
+               </list>
+            </p>
+            <p>Conſcience is but a ſubordinate Rule;<note place="margin">
+                  <hi>Reaſ.</hi> 1.</note> 'tis dependent upon, and acted by ſomething a<g ref="char:EOLhyphen"/>bove it ſelf: it both hears and ſees with the eyes and ears of another faculty: 'tis not a guide
+<pb n="29" facs="tcp:63653:34"/>to the Underſtanding; but the Underſtanding a guide to it: 'tis me<g ref="char:EOLhyphen"/>thinks the Underſtand<g ref="char:EOLhyphen"/>ings Eccho; it onely repeats what that di<g ref="char:EOLhyphen"/>ctates, and adds to it a commanding <hi>fiat. Con<g ref="char:EOLhyphen"/>ſcience</hi> is but the reverbe<g ref="char:EOLhyphen"/>ration of intellectual Beams: its actings are little other then a chew<g ref="char:EOLhyphen"/>ing over of that Light which it borrows from this Fountain. But Laws are the more im<g ref="char:EOLhyphen"/>mediate Products, and direct Emanations of ſundry united and ma<g ref="char:EOLhyphen"/>ture Judgements. Now to draw a Curtain be<g ref="char:EOLhyphen"/>fore
+<pb n="30" facs="tcp:63653:35"/>ſome ſplendid Light; and to examine matters of weight and intricacy, (and that matters of Judicature are ſuch, we ſhall ſhew anon;) by ſome feeble Glimmerings, and faint Reflections; what were more imprudent and pernicious? Philoſo<g ref="char:EOLhyphen"/>phers have called the Will, <hi>caeca Potentia;</hi> and without the Under<g ref="char:EOLhyphen"/>ſtanding, Conſcience is but <hi>mera impotentia.</hi> In<g ref="char:EOLhyphen"/>deed, there is no ſuch diſtinct faculty in the reaſonable Soul; though Theology treats of it, yet Philoſophy is ſilent
+<pb n="31" facs="tcp:63653:35"/>concerning it. Its two moſt proper and princi<g ref="char:EOLhyphen"/>pal Operations, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, what are they, but the <hi>intellectus practi<g ref="char:EOLhyphen"/>cus,</hi> recoyling upon it ſelf? Its <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, what is that, but an appli<g ref="char:EOLhyphen"/>catory contemplation of thoſe Rules by which it eſteems it ſelf obliged to act? Nor can Con<g ref="char:EOLhyphen"/>ſcience thus look for<g ref="char:EOLhyphen"/>ward upon its Law, or backward upon it ſelf; unleſs the Underſtand<g ref="char:EOLhyphen"/>ing lend it Light: which Truth (beſides the pre<g ref="char:EOLhyphen"/>ſent occaſion we have for it) doth in ſome mea<g ref="char:EOLhyphen"/>ſure detect the ground<g ref="char:EOLhyphen"/>leſs
+<pb n="32" facs="tcp:63653:36"/>ſcrupuloſity of this age; in which we are afraid of compelling Children and Servants, (and with theſe you may rank the ignorant Na<g ref="char:EOLhyphen"/>tives of this Country) to hear publickly, and learn the Principles of Religion; leſt we ſhould force Conſcience: as if there could be a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, without a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an excuſing or accuſing our ſelves, with<g ref="char:EOLhyphen"/>out the knowledge of thoſe divine Truths, which muſt meaſure our actions: even <hi>Paul</hi> himſelf muſt ſee the Law, be<g ref="char:EOLhyphen"/>fore he could ſee his ſin,
+<pb n="33" facs="tcp:63653:36"/>
+               <hi>Rom.</hi> 7.7. But this is be<g ref="char:EOLhyphen"/>yond my purpoſe.</p>
+            <p>This is the firſt Rea<g ref="char:EOLhyphen"/>ſon drawn from Conſcience.</p>
+            <p>Conſcience is a very flexible Rule,<note place="margin">
+                  <hi>Reaſ.</hi> 2.</note> 'tis pli<g ref="char:EOLhyphen"/>able to every paſſion; 'tis eaſily tainted with prejudice; 'tis byaſſed by ſelf-intereſt: and therefore without Laws a moſt dangerous guide, <hi>&amp;c.</hi>
+            </p>
+            <list>
+               <item>1. Like a broken Bow, every paſſion is able to make it ſtart aſide, and forget its buſineſs: <hi>Diis proximus ille quem ratio, non ira, movet.</hi> 'Tis a rare thing to
+<pb n="34" facs="tcp:63653:37"/>finde that man, whom, not Raſhneſs, but Rea<g ref="char:EOLhyphen"/>ſons governs. How ea<g ref="char:EOLhyphen"/>ſily is Conſcience by<g ref="char:EOLhyphen"/>aſſed with fooliſh pity? then which, in a Judge, ſcarce any thing is more dangerous: both the Truth and ſad Effects of this, he that runs may read, in <hi>Eli</hi>'s carriage to his Sons: his gentle Reproof, how ill did it become their horrid and notorious Practiſes?<note place="margin">1 <hi>Sam.</hi> 2.23</note> how far was it beneath the juſt rigour of thoſe holy Laws, which they had tranſgreſſed? what diſhonour brought it to the Name of God?<note place="margin">
+                     <hi>Verſ.</hi> 17.</note>
+                  <pb n="35" facs="tcp:63653:37"/>what Judgements upon his people? The vileſt Miſcreants, what En<g ref="char:EOLhyphen"/>couragement would they take in their wick<g ref="char:EOLhyphen"/>edneſs, were Conſcience only to be their Judge? how would baſe Na<g ref="char:EOLhyphen"/>tures preſume to bribe it with their tears? and how apt were it to be ſo dealt with? I have often obſerved, (and do think it is not the leaſt Ground of that experi<g ref="char:EOLhyphen"/>mented Maxim, <hi>Sanguis Martyrum eſt ſemen Eccle<g ref="char:EOLhyphen"/>ſiae</hi>) that Miſery will ex<g ref="char:EOLhyphen"/>tract Compaſſion to<g ref="char:EOLhyphen"/>wards our moſt bloody Enemies, our greateſt
+<pb n="36" facs="tcp:63653:38"/>Oppoſites: nay, the very pains and charge, which, even wicked acti<g ref="char:EOLhyphen"/>ons expoſe men to, were Conſcience the Judge, muſt be looked upon. 'Tis pity <hi>Ziba</hi> ſhould loſe his Aſſes, his Jour<g ref="char:EOLhyphen"/>ney, and his Good Will too. Were this the Rule, the cry of Juſtice againſt a Thief, an A<g ref="char:EOLhyphen"/>dulterer, would ſcarce be heard, amidſt the ſad and loud Complaints of Wife and Children: but ſuch fooliſh pity would deſtroy a Common<g ref="char:EOLhyphen"/>wealth: though this Af<g ref="char:EOLhyphen"/>fection be moſt com<g ref="char:EOLhyphen"/>mendable in others, yet
+<pb n="37" facs="tcp:63653:38"/>is it blame-worthy in a Magiſtrate. But more of this in the Applica<g ref="char:EOLhyphen"/>tion. And ſince Envy, Malice, with ſeveral o<g ref="char:EOLhyphen"/>ther of the Paſſions, do more violently proſe<g ref="char:EOLhyphen"/>cute their Ends, then this of Pity; what hath been ſaid of it, might with advantage be ſpoken of them.</item>
+               <item>2. This flexible Rule, is eaſily infected with prejudice: while Con<g ref="char:EOLhyphen"/>ſcience ſits Judge, thoſe have a ſingular advan<g ref="char:EOLhyphen"/>tage, (if I may uſe that vulgar ſaying) who cry Whore firſt, who are the Plaintiffs. This poor
+<pb n="38" facs="tcp:63653:39"/>
+                  <hi>Mephiboſheth</hi> knew, to his coſt. <hi>David</hi> is ſo byaſſed by the Servants prece<g ref="char:EOLhyphen"/>dent Information, that the greateſt ſatisfaction his Maſter, whom he had ſlandered, can ex<g ref="char:EOLhyphen"/>pect, is to come off with loſs: half his Eſtate he muſt forfeit; and 'tis well he ſcapes ſo. How were that Princes eyes ſtricken blood-ſhot with <hi>Ziba</hi>'s falſe Gloſs? nor did this prejudice, like Paint upon Church-Windows, only keep out Light; but, as he that looks through a coloured Glaſs, thinks all Objects of that dye;
+<pb n="39" facs="tcp:63653:39"/>and knows not how to undeceive himſelf, unleſs he change his <hi>medium:</hi> ſo doth <hi>David</hi>'s Con<g ref="char:EOLhyphen"/>ſcience, being thus tainted, judge <hi>Mephi<g ref="char:EOLhyphen"/>boſheth's</hi> righteous Cauſe of its own colour. Thus known Laws would not have done: they are not ſo eaſily ſtain'd, but keep their native complexion. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, they are deaf as well as blinde; they ſcorn to lend an ear to mens ſe<g ref="char:EOLhyphen"/>cret whiſperings; but approve much better of <hi>Solomon</hi>'s Rule then <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Practice, <hi>Prov.</hi> 18.17. <hi>He that is firſt in his
+<pb n="40" facs="tcp:63653:40"/>own cauſe-ſeemeth juſt; but his neighbour comes and ſearches him.</hi>
+               </item>
+               <item>3. This flexible Rule is eaſily bended by ſelf-Intereſt. Did thoſe that ſit in Judgement lie un<g ref="char:EOLhyphen"/>der only the controlls of Conſcience, how rea<g ref="char:EOLhyphen"/>dily might they ſay, The Caſe is altered, when they perceive it either to concern themſelves, or any who could but pur<g ref="char:EOLhyphen"/>chaſe their Favour? Have you read that ſto<g ref="char:EOLhyphen"/>ry concerning <hi>Judah</hi> and <hi>Tamar?</hi> Gen. 38. and did you obſerve how ſuddenly his Judgement varied? ſelf-centriety
+<pb n="41" facs="tcp:63653:40"/>drew Conſcience to two oppoſite Points in an in<g ref="char:EOLhyphen"/>ſtant: in the 24 <hi>verſe,</hi> he commands her, without farther deliberation, to be burnt. But good men will be partial towards themſelves. When he underſtands by whom ſhe was with childe, though this aggravated her Crime alſo, (for what before he thought Whoredom, now proved Increſt) how eaſily did this Judge remit the pu<g ref="char:EOLhyphen"/>niſhment? Were Con<g ref="char:EOLhyphen"/>ſcience ever ſo quick-ſighted; (though we ſhall anon prove its eyes to be but dim)
+<pb n="42" facs="tcp:63653:41"/>could it, like ſome well-touch'd Needle, point exactly where it ought; yet as Iron would that, ſo would Gold draw this aſide: as the <hi>juxta</hi>-po<g ref="char:EOLhyphen"/>ſition of the ſmalleſt Loadſtone would put the Needle into a qui<g ref="char:EOLhyphen"/>vering poſture; yea, make it dance the Round, not knowing in what part of the Com<g ref="char:EOLhyphen"/>paſs of ſettle: even juſt thus is every ſelfiſh Re<g ref="char:EOLhyphen"/>ſpect, apt to deal with Conſcience. And how dangerous were it in the midſt of a troubled O<g ref="char:EOLhyphen"/>cean, to ſail by a Wea<g ref="char:EOLhyphen"/>ther-cock-Needle? How
+<pb n="43" facs="tcp:63653:41"/>impoſſible for the moſt skilful Artiſt to work exactly by a Leaden-Rule?</item>
+            </list>
+            <p>This is the ſecond Reaſon drawn from Conſcience.</p>
+            <p>Conſcience is a de<g ref="char:EOLhyphen"/>fective Rule;<note place="margin">
+                  <hi>Reaſ.</hi> 3.</note> 'tis too ſcant to meaſure out Juſtice in its due and full proportion. We have already proved it to be but a reflected Light; and 'tis a known Ma<g ref="char:EOLhyphen"/>xime, <hi>Quòd Radii reflexi ſint ſemper imbecilliores,</hi> that reflected Beams are more feeble then direct ones. If with a ſtrong Hand you ſtrike a Ball
+<pb n="44" facs="tcp:63653:42"/>againſt the Floor, viſi<g ref="char:EOLhyphen"/>ble Experience will ſhew you, that it makes not its Rebounds with ſo forcible a motion as it was carried thither. Nay, the Light by which Conſcience pro<g ref="char:EOLhyphen"/>ceeds in its work, is but a Reflexion of a Reflexi<g ref="char:EOLhyphen"/>on: for even the Under<g ref="char:EOLhyphen"/>ſtanding it ſelf ſees but with borrowed eyes. Stars have no Native Luſtre of their own: but that which ſparkles in them, they derive from an higher Fountain; and ſo doth the Intellect. Conſcience receives its Light, but at the ſecond
+<pb n="45" facs="tcp:63653:42"/>or third Rebound. And how impotent are the Moon-Beams, when compared with the Sun's more powerful and a<g ref="char:EOLhyphen"/>ctive Rays? But be<g ref="char:EOLhyphen"/>ſides this, even Reaſon it ſelf, which holds the Candle, while Conſci<g ref="char:EOLhyphen"/>ence reads, is but a poor contracted thing. <hi>Ho<g ref="char:EOLhyphen"/>mer</hi>'s Wiſdom might have been abbreviated into as narrow an Epi<g ref="char:EOLhyphen"/>tome as his Works: a Nut-ſhell would have held them both. How few are there that un<g ref="char:EOLhyphen"/>derſtand what <hi>recta ratio</hi> means? Do not the Wiſeſt ſee weakneſs e<g ref="char:EOLhyphen"/>nough
+<pb n="46" facs="tcp:63653:43"/>in themſelves to make them bluſh? How eaſily doth the next plauſible Author, or a<g ref="char:EOLhyphen"/>ble Diſputant turn us from what but now we thought, a well-reſolved Judgement? Did not the Wiſe Philoſophers bathe themſelves in the dirty Puddles of Error? <hi>Ariſtotle</hi> votes the World Eternal. <hi>Plato</hi> places rational Souls in fixed Stars. Heaven muſt be their Manſion-houſe; while earthly Ta<g ref="char:EOLhyphen"/>bernacles are fitted for them. <hi>Pythagoras</hi> thwarts at once both Scripture and Reaſon: though
+<pb n="47" facs="tcp:63653:43"/>that aſſerts, <hi>The Spirits return to God that gave it,</hi> Eccleſ. 12.7. Yet this Philoſopher, upon its parting with its Body, clips its Wings, and keeps it here; and ra<g ref="char:EOLhyphen"/>ther then fail, even Bruits of the moſt igno<g ref="char:EOLhyphen"/>ble <hi>ſpecies,</hi> muſt give it Entertainment. In his Opinion, <hi>Actaeon</hi>'s Dogs, having eaten their Ma<g ref="char:EOLhyphen"/>ſters Body, might drink up his Soul. We muſt confeſs, (for the Word of Truth hath ſpoken it, <hi>Gen.</hi> 1.27. compared with <hi>Col.</hi> 3.10.) that the Image of an Infinite Wiſdom, was once im<g ref="char:EOLhyphen"/>printed
+<pb n="48" facs="tcp:63653:44"/>upon the Soul of Man: and the Stoicks gaz'd ſo long upon, but the ruines of this beau<g ref="char:EOLhyphen"/>tiful Object, till, like <hi>Narciſſus,</hi> they grew enamoured of their own Pictures. 'Tis true, Reaſon was once a moſt bright and glorious Torch: but alas! be<g ref="char:EOLhyphen"/>ing confined to the dull and dusky Lanthorn of humane Bodies, this Candle of the Lord, (for ſo the wiſe Man calls it) is waxen dim,<note place="margin">
+                  <hi>Pro.</hi> 20.27.</note> and ſhines but weakly. And if the Window be grown ſo darkſom, which ſhould let in Light to direct the
+<pb n="49" facs="tcp:63653:44"/>Conſcience in the ways of Equity, Truth and Peace: if Reaſon, which is the only Guide to its feet, and Lamp to its paths, be thus over-caſt with the ſhades of Er<g ref="char:EOLhyphen"/>ror, without the aſ<g ref="char:EOLhyphen"/>ſiſtance of known Laws, it can be but an unſafe Rule in matters of Judi<g ref="char:EOLhyphen"/>cature.</p>
+            <p>This is the third Reaſon drawn from Conſcience.</p>
+            <p>Conſcience is a moſt <hi>uncertain Rule,</hi>
+               <note place="margin">
+                  <hi>Reaſ.</hi> 4.</note> I mean not only <hi>incertitudine Ob<g ref="char:EOLhyphen"/>jecti;</hi> for its flexibility hath proved that in part already; but <hi>incertitudi<g ref="char:EOLhyphen"/>ne
+<pb n="50" facs="tcp:63653:45"/>Subjecti:</hi> even thoſe who were to walk by it, could never be acquaint<g ref="char:EOLhyphen"/>ed with it. Whence would enſue an <hi>impoſsi<g ref="char:EOLhyphen"/>bility of obedience; the diſ-joynting of a Commonwealth; with a continued fear and diffidency in the mindes of Subjects.</hi> And
+<list>
+                  <item>1. theſe, though inno<g ref="char:EOLhyphen"/>cent, would always be in a trembling poſture, always in fear of the Revenger: for unleſs Conſciences were all caſt in the ſame mould; thoſe very Actions which pleaſe them<g ref="char:EOLhyphen"/>ſelves, as being corre<g ref="char:EOLhyphen"/>ſpondent to their own
+<pb n="51" facs="tcp:63653:45"/>Light, might incenſe their Rulers.</item>
+                  <item>2. And ſince Obedience is no<g ref="char:EOLhyphen"/>thing elſe but the corre<g ref="char:EOLhyphen"/>ſpondency of Mens Beha<g ref="char:EOLhyphen"/>vior to the Laws of their Magiſtrates; which can<g ref="char:EOLhyphen"/>not be without a know<g ref="char:EOLhyphen"/>ledge of thoſe Laws; this, where the Rule were ſo unſearchable and hidden a thing as Conſcience is, would be impoſſible. Not with<g ref="char:EOLhyphen"/>out juſt cauſe therefore, hath the Prudence of al Ages, made <hi>Promulgati<g ref="char:EOLhyphen"/>on, de eſſentiâ Legum,</hi> this muſt <hi>ingredi Definitio<g ref="char:EOLhyphen"/>nem. Suarez</hi> and <hi>Aqui<g ref="char:EOLhyphen"/>nas</hi> dare not venture up<g ref="char:EOLhyphen"/>on
+<pb n="52" facs="tcp:63653:46"/>the <hi>deſcription</hi> of a Law without it: 'tis the pub<g ref="char:EOLhyphen"/>lication of Acts and Or<g ref="char:EOLhyphen"/>dinances, which ſtamps upon them their com<g ref="char:EOLhyphen"/>manding power. Sub<g ref="char:EOLhyphen"/>jects till then, are neither bound to own them, nor ſubmit unto them. Some do thus expound <hi>Paul</hi>'s circumciſing <hi>Ti<g ref="char:EOLhyphen"/>mothy,</hi> that notwith<g ref="char:EOLhyphen"/>ſtanding this Ordinance were long before abro<g ref="char:EOLhyphen"/>gated, yet was not that ſo publickly declared till <hi>Paul</hi> afterwards did it himſelf, <hi>Gal.</hi> 5.2, 3. I want time to ſhew you how the Supreme Le<g ref="char:EOLhyphen"/>giſlator hath ſtill di<g ref="char:EOLhyphen"/>vulg'd
+<pb n="53" facs="tcp:63653:46"/>his Will and Pleaſure to his Subjects:<note place="margin">
+                        <hi>Rom.</hi> 2.14, 15.</note> firſt by the ſilent voice of Natures ſecret Di<g ref="char:EOLhyphen"/>ctates: then, by the louder noiſe of Thunder upon Mount <hi>Sinai:</hi> and ſince, in a more Goſpel-ſtrain,<note place="margin">
+                        <hi>Heb.</hi> 1.1, 20 <hi>Mat.</hi> 5, 6, 7 <hi>cap.</hi>
+                     </note> by the milder blaſts of <hi>Sion</hi>'s Silver Trumpets: And to what end was all this? but that the rebellious Sons of <hi>Adam</hi> might not think with an <hi>ignorantia invincibilis,</hi> to palliate their Diſobedience.</item>
+                  <item>But 3. the uncertainty and variableneſs of this Rule would diſ-joynt a Commonweal: 'twould
+<pb n="54" facs="tcp:63653:47"/>ſuddenly ſpeak it; yea, of neceſſity make it an <hi>Heterogeneous Body:</hi> for according to the indiffe<g ref="char:EOLhyphen"/>rent capacities of thoſe Men who were to judge, 'twould be partly Hay, and partly Stubble; partly Gold, and partly Dirt. Laws were always eſteemed the very form of the Politick Body; and the <hi>compoſitum</hi> can<g ref="char:EOLhyphen"/>not be <hi>unum quid,</hi> where the <hi>form</hi> is <hi>multiplex.</hi> I remember an <hi>Exercitator</hi> in theſe <hi>times,</hi> hath urg'd this Argument againſt the erecting of Judiciary Courts in each County; That the various Con<g ref="char:EOLhyphen"/>ſtructions,
+<pb n="55" facs="tcp:63653:47"/>which would be made in theſe Courts, though upon one and the ſame Law, muſt needs breed great confu<g ref="char:EOLhyphen"/>ſion; and in a ſhort time make the Com<g ref="char:EOLhyphen"/>monwealth ſtrangely unlike it ſelf. Then how much greater confuſions muſt our Conſtitution beget? in which the Laws will be as various as the Mindes of Men; among which there is ſuch diſparity, that theſe words, <hi>Quot homi<g ref="char:EOLhyphen"/>nes, tot ſententiae,</hi> have now for ſome hundred yeers been thought to ſpell a Truth. Were
+<pb n="56" facs="tcp:63653:48"/>Conſcience the Rule in matters of Judicature; what commends a Man in this City, in this County, might hang him in the next: what this Magiſtrate enjoyns as a Duty, another, liv<g ref="char:EOLhyphen"/>ing perhaps in the ſame Town, whoſe Conſci<g ref="char:EOLhyphen"/>ence is of a larger or more contracted ſize, ſhall forbid as a Vice: what Monſters would Cities, Kingdoms, Com<g ref="char:EOLhyphen"/>monwealths be, were this project ſet on foot?</item>
+               </list>
+            </p>
+            <p>This is the fourth Reaſon drawn from Conſcience.</p>
+            <p>Conſcience is moſt
+<pb n="57" facs="tcp:63653:48"/>
+               <hi>arbitrary Rule:</hi>
+               <note place="margin">
+                  <hi>Reaſ.</hi> 5.</note> were a Judge confin'd to no o<g ref="char:EOLhyphen"/>ther Bound, ſince this and the Will lie cloy<g ref="char:EOLhyphen"/>ſter'd up in the ſame Breaſt, he might pretend the one, and yet be acted by the other: his pri<g ref="char:EOLhyphen"/>vate <hi>ſic volo, ſic jubeo,</hi> would quickly ſupplant it, and ſupply its place. Nor can any thing be more dangerous, then for the Wills of ſome few, though good Men, to become Laws unto all others. Did I ſay, their Wills? yea, their vileſt Corruptions. <hi>David</hi>'s Luſt muſt be <hi>Joab</hi>'s Law, and <hi>Uriah</hi>'s Death, 2. <hi>Sam.</hi>
+               <pb n="58" facs="tcp:63653:49"/>11.15. The Envy of ſome, and the Ambition of others, would be the poor Plaintiff's <hi>non ul<g ref="char:EOLhyphen"/>tra,</hi> like the Decrees of the <hi>Medes</hi> and <hi>Perſians,</hi> unalterable. And what inſufferable enormities would this of neceſſity produce? To enthrone Conſcience in the Seats of Judicature, were to put ſo unlimitted a Power into the hands of ordinary Men, as hath always make Kingdoms and Nations to groan under it, when executed by the wiſeſt and beſt of Princes. Though <hi>Joab, Shimei</hi> and <hi>Adonijah,</hi> di<g ref="char:EOLhyphen"/>ed
+<pb n="59" facs="tcp:63653:49"/>juſtly, and their Blood let it reſt upon their own Heads; yet the manner of their Con<g ref="char:EOLhyphen"/>demnation, were enough to make the moſt inno<g ref="char:EOLhyphen"/>cent Subjects tremble. Were Conſcience the only Rule in matters of Judicature, the deſcri<g ref="char:EOLhyphen"/>ption of an Heathen Tyrant, and Chriſtian Magiſtrate, would be one and the ſame: this Motto, <hi>Stat pro Ratione Voluntas,</hi> would indiffe<g ref="char:EOLhyphen"/>rently ſerve them both. And have you read their Preſſures who live in the Torrid Zone of the Turkiſh Empire, who
+<pb n="60" facs="tcp:63653:50"/>ſweat and ſigh under the weight of that Iron Scepter, which is weilded by the <hi>Ottoman</hi> Race, where the Sul<g ref="char:EOLhyphen"/>tan's Nod is enough to ſtrangle the Greateſt Perſons in his Domini<g ref="char:EOLhyphen"/>ons? why know, that to inveſt Conſcience with the forementioned Authority, were to place a Monarch equally abſolute in each petty Juriſdiction.</p>
+            <p>This is the fifth and laſt Branch of the ſecond Ar<g ref="char:EOLhyphen"/>gument drawn from Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <pb n="61" facs="tcp:63653:50"/>
+            <p>The third is taken from our Judges,<note place="margin">Arg. <hi>3.</hi>
+               </note> or the Managers of this unſafe Rule, <hi>What they may be:</hi> And although we have hitherto ſuppoſed them to be <hi>Davids</hi> for Piety, and <hi>Solomons</hi> for VViſ<g ref="char:EOLhyphen"/>dom, (and many ſuch we preſume this Age affords) yet in time they may be, the weakeſt and worſt of Men. Any, who can but draw the ſpecious vail of an high Profeſſion over the moſt notorious Actings; any whom Eſtate or Cun<g ref="char:EOLhyphen"/>ning, can uſher upon the publick Stage, &amp; render conſpicuous among the
+<pb n="62" facs="tcp:63653:51"/>vulgar: yea, ſome per<g ref="char:EOLhyphen"/>haps, no leſs forlorn in Practice and Principles, then thoſe foretold by Chriſt, <hi>John</hi> 16.2. who ſhall think the Blood of God's faithful Servants, a well-pleaſing Sacri<g ref="char:EOLhyphen"/>fice: and whether to truſt theſe with the weilding and forging of a Civil Sword; whether to put ſo ſharp a Tool into ſuch mad Mens hands, be not dangerous, let any judge.</p>
+            <p>This is the third Argument.</p>
+            <p>The fourth is taken from <hi>matters of Judica<g ref="char:EOLhyphen"/>ture,<note place="margin">Arg. <hi>4.</hi>
+                  </note> what they are:</hi> And
+<pb n="63" facs="tcp:63653:51"/>they are ſometimes matters of <hi>intricacy,</hi> and always matters of weight.</p>
+            <p n="1">1. They are ſome<g ref="char:EOLhyphen"/>times <hi>matters of intricacy;</hi> and we have already de<g ref="char:EOLhyphen"/>monſtrated a ſcantneſs in Conſcience to meaſure ſuch: mens ſingle and in<g ref="char:EOLhyphen"/>digeſted thoughts, with<g ref="char:EOLhyphen"/>out the aſſiſtance of known Laws, are ſel<g ref="char:EOLhyphen"/>dom able to diſ-entan<g ref="char:EOLhyphen"/>gle them: for <hi>omnis feſti<g ref="char:EOLhyphen"/>natio caeca eſt,</hi> they are the words of <hi>Seneca:</hi> He cannot deſcribe a Coun<g ref="char:EOLhyphen"/>try, who rides Poſt; nor thoſe Judges ſearch an intricate Cauſe to the
+<pb n="64" facs="tcp:63653:52"/>bottome, who make haſte. And 'tis not imaginable, that our conſciencious compoſers ſhould dwell long upon what is brought before them, if their labours be not well rewarded: for though the novelty of ſuch a Truſt may make them Zealous for a ſeaſon; yet this with<g ref="char:EOLhyphen"/>out Oyl will ſoon de<g ref="char:EOLhyphen"/>cay. They'll read, and quickly learn to conſtrue ſo much Latine, <hi>Propter Officium datur Benefici<g ref="char:EOLhyphen"/>um,</hi> That Pains and Pro<g ref="char:EOLhyphen"/>fit ought to be Conco<g ref="char:EOLhyphen"/>mitants. And now, though the Grand Pre<g ref="char:EOLhyphen"/>tence
+<pb n="65" facs="tcp:63653:52"/>in the Infancy of this Conſtitution, muſt be the Subjects Eaſe, and the greedy Law<g ref="char:EOLhyphen"/>yers deſerved Ruine; yet the event wil prove, that the faireſt proportion of Juſtice, may be pur<g ref="char:EOLhyphen"/>chaſed by the heavieſt Purſe. Nor are the beſt of Men ſecured from this Temptation; <hi>for, a gift blindeth the wiſe, and perverteth the words of the righteous,</hi> Exod. 23.8.</p>
+            <p>But 2. they are al<g ref="char:EOLhyphen"/>ways <hi>matters of weight. Solomon</hi>'s Obſervation, touching the terrible effects of a Prince's
+<pb n="66" facs="tcp:63653:53"/>wrath; that 'tis as Meſ<g ref="char:EOLhyphen"/>ſengers of Death,<note place="margin">
+                  <hi>Pro.</hi> 16.14.20.2.</note> and his Fear like the <hi>roaring of a Lion;</hi> are chiefly grounded upon this Truth: not only Men's trifling Concerments; but whatſoever is moſt dear unto them, falls under the Juriſdiction of their Magiſtrates: and that Fence will not be<g ref="char:EOLhyphen"/>come our Cloſets, which may yet ſecure our Gar<g ref="char:EOLhyphen"/>dens: what ſpeaks our Lumber ſufficiently ſafe, would render our Plate and Jewels hazardous. Though it were but a pardonable over-ſight, to adventure the diſpo<g ref="char:EOLhyphen"/>ſal
+<pb n="67" facs="tcp:63653:53"/>of ſome ſupernume<g ref="char:EOLhyphen"/>rary Enjoyments, with<g ref="char:EOLhyphen"/>out the Conduct of known Laws: Yet ſince our Eſtates, our Lives, our Liberties do all de<g ref="char:EOLhyphen"/>pend upon the <hi>Breath</hi> of a Judge: and (to let paſs what we have ſpoken in the third Argument) ſince the Mercies of Men are Cruelties, (for ſo much may be in<g ref="char:EOLhyphen"/>ferr'd, as the Antitheſis will evince, from the Reaſon of <hi>David</hi>'s choice:) I ſay,<note place="margin">1 <hi>Chr.</hi> 21.13</note> it be<g ref="char:EOLhyphen"/>ing thus; 'twill be dan<g ref="char:EOLhyphen"/>gerous leaving this <hi>Breath</hi> arbitrary or ſubject to no other Check but that
+<pb n="68" facs="tcp:63653:54"/>of Conſcience, a Rule which cannot be mea<g ref="char:EOLhyphen"/>ſur'd by any other a<g ref="char:EOLhyphen"/>bove, or without it ſelf. But more of this in the next.</p>
+            <p>This is the fourth Argument.</p>
+            <p>The fifth and laſt Ar<g ref="char:EOLhyphen"/>gument to prove Con<g ref="char:EOLhyphen"/>ſcience without Laws an unſafe Rule,<note place="margin">Arg. <hi>5.</hi>
+               </note> 
+               <hi>&amp;c.</hi> is taken from ſome grand Inconveniences which would follow upon this (I mean, beſides thoſe which may be rational<g ref="char:EOLhyphen"/>ly drawn from what we have ſaid already) and they are among many o<g ref="char:EOLhyphen"/>thers theſe three.</p>
+            <pb n="69" facs="tcp:63653:54"/>
+            <list>
+               <item>1. Were the known Laws of a Nation can<g ref="char:EOLhyphen"/>cell'd, the <hi>Jus poſitivum</hi> laid aſide, and <hi>Conſcience</hi> ſeated in its <hi>Room;</hi> this would inevitably drive us to the <hi>Judicial</hi> or <hi>Mo<g ref="char:EOLhyphen"/>ral Law,</hi> or elſe to the <hi>Scripture</hi> it ſelf, as our <hi>final Umpire</hi> in all <hi>Con<g ref="char:EOLhyphen"/>tentions;</hi> for ſin being only the ſwerving from ſome received Rule, 1 <hi>John</hi> 3.4. <hi>Rom.</hi> 5.13. theſe Judges, unleſs ſome ſuch Rule ſtand by them, can paſs no Judgement upon their own or others Actions. And ſhould the Magi<g ref="char:EOLhyphen"/>ſtrate regulate his Con<g ref="char:EOLhyphen"/>ſcience
+<pb n="70" facs="tcp:63653:55"/>by the Judicial Law, how unſuitable were that in many things to the preſent ſtate of theſe Nations? Were Theft among us only puniſhed with a re<g ref="char:EOLhyphen"/>ſtoring fourfold; how many thouſands may be found, who rather then work, or want, would venture that? If by the Moral Law, with<g ref="char:EOLhyphen"/>out ſome large and vo<g ref="char:EOLhyphen"/>luminous Comment, (too large, I fear, to be often read) even wiſe Men would be unable, by its ſole Direction, to determine many, yea, moſt Controver<g ref="char:EOLhyphen"/>ſies.
+<pb n="71" facs="tcp:63653:55"/>And although the VVord of God be a moſt Holy and Perfect Rule; yet the deplo<g ref="char:EOLhyphen"/>rable Experience of theſe Times, is Proof ſufficient, that this alſo may be wreſted to the indirect and collateral Aims of wicked men: How eaſily, how of<g ref="char:EOLhyphen"/>ten is it abuſed by the Ignorance of ſome, and the Corruption of o<g ref="char:EOLhyphen"/>thers? VVere the Ap<g ref="char:EOLhyphen"/>plication of this Righ<g ref="char:EOLhyphen"/>teous Law <hi>left to Con<g ref="char:EOLhyphen"/>ſcience,</hi> the Quakers Dreams might com<g ref="char:EOLhyphen"/>mence uncontrollable Edicts. Some would
+<pb n="72" facs="tcp:63653:56"/>leave their VVives, their Children, their Fami<g ref="char:EOLhyphen"/>lies; and our Saviour's VVords, <hi>Mat.</hi> 19.29. muſt both juſtifie and commend them. VVere this <hi>left to Conſcience, Tarquinius</hi> his Counſel would be practiced in theſe Nations; our tal<g ref="char:EOLhyphen"/>leſt Poppies, Men of Eſtates and Eminency, muſt be cut off: <hi>Com<g ref="char:EOLhyphen"/>munity,</hi> that now ex<g ref="char:EOLhyphen"/>ploded Levelling Prin<g ref="char:EOLhyphen"/>ciple, would <hi>reſurgere è Sepulchro,</hi> riſe out of its loathſom Grave, (where long may it lie buried) and tread, what hath hitherto oppoſed it, un<g ref="char:EOLhyphen"/>der
+<pb n="73" facs="tcp:63653:56"/>its feet, unleſs you'll expunge <hi>Acts</hi> 2.44. which proves, that they parted their Goods, and had all in common. Were <hi>Conſcience</hi> once commiſſioned, to ex<g ref="char:EOLhyphen"/>pound and apply Sa<g ref="char:EOLhyphen"/>cred Truths to Civil Matters, how ſoon would ſome enlarge the Borders of this Para<g ref="char:EOLhyphen"/>dox, <hi>Dominium fundatur in Gratiâ?</hi> Not only <hi>Power,</hi> but <hi>Poſſeſsion;</hi> both a Right to Rule, and a Right to Enjoy, would be founded in Grace: this dangerous Tenent, <hi>That the Godly muſt have all, and others
+<pb n="74" facs="tcp:63653:57"/>nothing,</hi> would march furiouſly with a <hi>Jus Divinum</hi> proclaim'd be<g ref="char:EOLhyphen"/>fore it; becauſe the Lord hath ſaid, that <hi>the meek ſhall inherit the earth;</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 83.11</note> and <hi>Paul</hi> tells the <hi>Corinthians,</hi> that <hi>all was theirs,</hi> 1 Cor. 3.22.</item>
+               <item>2. To appoint Con<g ref="char:EOLhyphen"/>ſcience without the ſuperintendency of Laws, our Rule in Mat<g ref="char:EOLhyphen"/>ters of Judicature, would put the <hi>Legiſlative</hi> and the <hi>Executive</hi> Power, in one and the ſame hand. This is another grand Inconveniency, which the Prudence of our An<g ref="char:EOLhyphen"/>ceſtors hath carefully
+<pb n="75" facs="tcp:63653:57"/>prevented, by cauſing theſe to run in different Chanels. 'Tis a good Note of the Lord <hi>Ve<g ref="char:EOLhyphen"/>rulam</hi>'s, That Judges ought not, <hi>Jus dare, ſed, Jus dicere:</hi> their Work is not to make, but to apply the Rule; whiles he that ſteers by no other Compaſs then his own Conſcience, doth both. Which (to omit, that the Emphaſis of Tyranny muſt needs attend it) would make Men ſhie and timerous, how they denounce the juſteſt Sentence; and likewiſe cauſe much <hi>o<g ref="char:EOLhyphen"/>dium</hi> to reflect upon
+<pb n="76" facs="tcp:63653:58"/>them, from ſuch as fall within their reach; be<g ref="char:EOLhyphen"/>cauſe the Law that pu<g ref="char:EOLhyphen"/>niſhes, ſhall be e<g ref="char:EOLhyphen"/>ſteem'd his that judges. We ſcarce ever obſerve, (which I ſpeak not in diſparagement of that way; ſo it be free, and not forced; for doubt<g ref="char:EOLhyphen"/>leſs, 'tis a moſt com<g ref="char:EOLhyphen"/>mendable and Chriſti<g ref="char:EOLhyphen"/>an courſe, 1 <hi>Cor.</hi> 6.5.) I ſay, we ſeldom obſerve a Difference, though but in ordinary and petty matters, referred to Arbitrators; but thoſe who undertake it, from one ſide or the other, ſhall contract ill Will,
+<pb n="77" facs="tcp:63653:58"/>for doing but their Duty in it: while known Laws, ſtanding in the room of a third Perſon, even he that feels the ſmart of theſe, cannot but applaud their <hi>Recti<g ref="char:EOLhyphen"/>tude,</hi> with the <hi>faithfulneſs</hi> of his Judge, and quar<g ref="char:EOLhyphen"/>rels only with the <hi>ob<g ref="char:EOLhyphen"/>liquity</hi> of his own Acti<g ref="char:EOLhyphen"/>ons.</item>
+               <item>3. To leave <hi>Conſcience</hi> thus independent in Ju<g ref="char:EOLhyphen"/>diciary Proceedings, would render the moſt unjuſt Magiſtrates un<g ref="char:EOLhyphen"/>accountable, ſince no Sentence could be ſo horrid and villanous, but might take Sanctu<g ref="char:EOLhyphen"/>ary
+<pb n="78" facs="tcp:63653:59"/>in the Boſome that pronounced it: for 'tis impoſſible to convict ſuch of Irregularities, who may plead a Con<g ref="char:EOLhyphen"/>formity to that Rule, which none can examine but themſelves. If <hi>John</hi> of <hi>Leyden,</hi> the Prodigy of this laſt Century, will ſay, 'Tis his <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> to have fifteen Wives at one time: to ſeize the Eſtates of all who dare not joyn with him in his wicked Projects: to convert heaps of learned and uſeful Volumes into a Flame: to murder his own Wife only for pi<g ref="char:EOLhyphen"/>tying
+<pb n="79" facs="tcp:63653:59"/>the languiſhing Inhabitants of poor <hi>Munſter,</hi> the miſerable Scene, upon which were acted theſe Abo<g ref="char:EOLhyphen"/>minations. And if that <hi>Conſcience</hi> be his Rule: theſe Practices need no further Juſtification; his <hi>ipſe dixit</hi> muſt ſtand: 'tis not for Man to con<g ref="char:EOLhyphen"/>tradict it, ſince God a<g ref="char:EOLhyphen"/>lone can <hi>try the reins,</hi> Jer. 17.10.</item>
+            </list>
+            <p>Theſe are the three grand <hi>Inconveni<g ref="char:EOLhyphen"/>ences,</hi> and our fifth or laſt Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>The Doctrine thus
+<pb n="80" facs="tcp:63653:60"/>confirmed, will afford us theſe following Uſes: <hi>viz. A Word</hi> 1. <hi>of Exhor<g ref="char:EOLhyphen"/>tation;</hi> 2. <hi>of Caution;</hi> 3. <hi>of Encouragement;</hi> 4. <hi>of Humiliation;</hi> 5. <hi>of In<g ref="char:EOLhyphen"/>ſtruction.</hi>
+            </p>
+            <p>Are the Conſciences of Wiſe Men an unſafe Rule?<note place="margin">Uſe <hi>1.</hi>
+               </note> Then hence let me ſpeak one Word to thoſe Honourable and Learned Perſons, whom Providence hath ap<g ref="char:EOLhyphen"/>pointed to ſit in Judge<g ref="char:EOLhyphen"/>ment in this Place, and at this Time. And, my Lords, let this Text and Doctrine, perſwade you to ſtick cloſe to thoſe
+<pb n="81" facs="tcp:63653:60"/>Laws by which you are govern'd your ſelves, and ought to judge o<g ref="char:EOLhyphen"/>thers. That Magiſtrate is not fit to act, who is ſo ſhackled with the ſcrupuloſities of his pri<g ref="char:EOLhyphen"/>vate <hi>Conſcience,</hi> or ra<g ref="char:EOLhyphen"/>ther over-weening Fan<g ref="char:EOLhyphen"/>cy, as not to keep pace with the Rule he is ſworn to walk by. We doubt not, (and let his Name be praiſed for it) but the Lord hath, in a high meaſure, beſtowed up<g ref="char:EOLhyphen"/>on you <hi>Solomon</hi>'s Por<g ref="char:EOLhyphen"/>tion, even wiſe and underſtanding Hearts. And if Laws were only the free Ebullitions of
+<pb n="82" facs="tcp:63653:61"/>Reaſon, there were ſome Pretence why <hi>that</hi> Wiſ<g ref="char:EOLhyphen"/>dom without <hi>theſe,</hi> might be your Guide: But your Lordſhips know, That the <hi>Jus Proprium</hi> in moſt Nations, is lit<g ref="char:EOLhyphen"/>tle other then the Pro<g ref="char:EOLhyphen"/>duct of Experience and Neceſſity: for <hi>ex malis Moribus fiunt bonae Le<g ref="char:EOLhyphen"/>ges.</hi> And thoſe that chaſe the Wilde Boar, muſt not think to make their purſuit in a ſtraight Line (though that were more beau<g ref="char:EOLhyphen"/>tiful and commodious) but muſt follow as they are led. Even ſo our Law-givers in all Ages,
+<pb n="83" facs="tcp:63653:61"/>(being to purſue the Vicious Humors of Unreaſonable Men, through their untoward Mazes, and wilde Maeanders) did ſome<g ref="char:EOLhyphen"/>times ſtep out of the Paths of Reaſon, 'cauſe what they followed was Irrational. Hence 'tis that Laws differ as much as Climates; what one Country explodes, the other applauds; while Reaſon is the ſame in all Places. That's the firſt Branch of this Uſe, Let your own private Reaſon ſtrike Sail to known Laws.</p>
+            <pb n="84" facs="tcp:63653:62"/>
+            <p>Secondly, As Judges may not relie upon their own Underſtandings; ſo neither liſten to the Pleadings of their own Affections: for <hi>the Judge himſelf is condemn<g ref="char:EOLhyphen"/>ed, when the Guilty is acquitted.</hi> As Preju<g ref="char:EOLhyphen"/>dice muſt not perſwade your Lordſhips to tor<g ref="char:EOLhyphen"/>ture Laws; ſo neither Pity to gagge them. Theſe are the <hi>Sylla</hi> and <hi>Charibdis,</hi> the two Rocks your Lordſhips ought carefully to avoid: for <hi>he that juſtifieth the wick<g ref="char:EOLhyphen"/>ed, and he that condemneth the just, even they both are an abomination to the
+<pb n="85" facs="tcp:63653:62"/>Lord,</hi> Prov. 17.15. And wonder not at this, ſince <hi>Lenitas erga malos eſt cru<g ref="char:EOLhyphen"/>delitas erga bonos;</hi> when the Wicked are par<g ref="char:EOLhyphen"/>doned, the Righteous are puniſhed.</p>
+            <p>If any object,<note place="margin">Object.</note> That Mercy and Juſtice inter<g ref="char:EOLhyphen"/>woven, is that Robe which beſt becomes a Judge; and that Ma<g ref="char:EOLhyphen"/>giſtrates, being called gods, ought to imitate the Lord in that, e<g ref="char:EOLhyphen"/>ven as in other Attri<g ref="char:EOLhyphen"/>butes:</p>
+            <p>We anſwer by grant<g ref="char:EOLhyphen"/>ing the Allegation,<note place="margin">Anſw.</note> but with this Difference, That God hath <hi>mercy
+<pb n="86" facs="tcp:63653:63"/>upon whom he will have mercy;</hi> but they, upon whom they ought: for though it be his Glory to conceal a thing, yet is it their honour to ſearch out a matter, <hi>Prov.</hi> 25.2.</p>
+            <p>This is the firſt Uſe, <hi>A Word of Exhor<g ref="char:EOLhyphen"/>tation.</hi>
+            </p>
+            <p>Is our Doctrine a Truth?<note place="margin">
+                  <hi>Uſe</hi> 2.</note> Then take heed of being again decoy'd into the leaſt Appro<g ref="char:EOLhyphen"/>bation of theſe, or the like Deſtructive Princi<g ref="char:EOLhyphen"/>ples: <hi>That Common<g ref="char:EOLhyphen"/>wealths may be governed without the known Laws:
+<pb n="87" facs="tcp:63653:63"/>That conſciencious Men, without the guidance and ſuperintendency of theſe, can ſteer a State.</hi> Recol<g ref="char:EOLhyphen"/>lect what hath been al<g ref="char:EOLhyphen"/>ledg'd, concerning the impoſſibility of this. What though thou art thy ſelf rais'd above that Oppreſſion and Miſchief which would enſue upon it? yet re<g ref="char:EOLhyphen"/>member, thy poor Neighbours are not, and thy Children may not be. There are ſome, who (like that traitorous Underminer of his Fa<g ref="char:EOLhyphen"/>ther's Kingdom, 2 <hi>Sam.</hi> 15.) do ſtand in the Gate, wiſhing that
+<pb n="88" facs="tcp:63653:64"/>they were Judges in the Land; and that Men might bring their Suits to them, for they would do them Juſtice. But know, that there is much difference be<g ref="char:EOLhyphen"/>tween <hi>Abſolom</hi> on Foot, and <hi>Abſolom</hi> on Horſe<g ref="char:EOLhyphen"/>back; he kiſſes in one poſture, but kills in the other: He that's cour<g ref="char:EOLhyphen"/>teous in the Stirrup, is churliſh in the Saddle. The Hedghog is no ſooner entertained in the Fox's Den; but he ſets up his prickles, and tells his Hoſt, If he like it not, he may leave him there. Could the
+<pb n="89" facs="tcp:63653:64"/>grand and primary Pro<g ref="char:EOLhyphen"/>jectors of this reform<g ref="char:EOLhyphen"/>ed Model, have ac<g ref="char:EOLhyphen"/>compliſhed their Ends, though they ſeemed be<g ref="char:EOLhyphen"/>fore to want Fingers, yet would they then have found Claws. 'Tis dangerous taſting Poy<g ref="char:EOLhyphen"/>ſon, though wrapp'd up in Sugar. And this Deſign of Extir<g ref="char:EOLhyphen"/>pating Laws, and En<g ref="char:EOLhyphen"/>throning a pretended Conſcience in their room, was too loath<g ref="char:EOLhyphen"/>ſome to be otherwiſe ſwallowed; too de<g ref="char:EOLhyphen"/>formed to appear with<g ref="char:EOLhyphen"/>out a vail: for if the Wolf will enter the fold
+<pb n="90" facs="tcp:63653:65"/>with the Sheep's con<g ref="char:EOLhyphen"/>ſent, he muſt wear their Livery.</p>
+            <p>Do any object,<note place="margin">Object.</note> That this Diſcourſe and Cau<g ref="char:EOLhyphen"/>tion are both out of ſea<g ref="char:EOLhyphen"/>ſon?</p>
+            <p>My Anſwer is,<note place="margin">Anſw.</note> That I could wiſh them more out of ſeaſon, then I fear they are: for that Phyſician muſt love his Profit too well, who is quarrelſome becauſe his Neighhours are not ſick. Beſides, though God hath blown this Cloud from off Men's Underſtandings at pre<g ref="char:EOLhyphen"/>ſent; yet how ſoon its ſcattered parts may re<g ref="char:EOLhyphen"/>unite,
+<pb n="91" facs="tcp:63653:65"/>and a ſecond time over-ſpread us, we do not know.</p>
+            <p>This is the ſecond Uſe, <hi>A Word of Caution.</hi>
+            </p>
+            <p>Is the ſuperinten<g ref="char:EOLhyphen"/>dency of Laws ſo re<g ref="char:EOLhyphen"/>quiſite, &amp;c.<note place="margin">
+                  <hi>Uſe</hi> 3.</note> Then let this encourage Magi<g ref="char:EOLhyphen"/>ſtrates, both in their <hi>Work,</hi> and in their <hi>Way.</hi> In their <hi>Work:</hi> For this Doctrine ſpeaks it high<g ref="char:EOLhyphen"/>ly neceſſary. We can<g ref="char:EOLhyphen"/>not live; our Com<g ref="char:EOLhyphen"/>monwealth cannot ſtand: but without it, ſinks under its own un<g ref="char:EOLhyphen"/>weildy Bulk. And be<g ref="char:EOLhyphen"/>cauſe,
+<pb n="92" facs="tcp:63653:66"/>to have no Rule, and having one, to want Knowledge how to uſe it, is the ſame thing; This Doctrine doth commend their <hi>Way</hi> too: for our <hi>Magistrates</hi> are acquainted with this Rule; they are vers'd in the known Laws of theſe Nations, with<g ref="char:EOLhyphen"/>out which, <hi>Justice</hi> would be defective, e<g ref="char:EOLhyphen"/>ven lame as well as blinde; and <hi>Conſcience</hi> but a feeble Reed, ſha<g ref="char:EOLhyphen"/>ken with the Winde of every paſſion: Law is the Compaſs, by which our <hi>Magistrates</hi> direct their Courſe;
+<pb n="93" facs="tcp:63653:66"/>and the want onely of this Pilot, made <hi>Da<g ref="char:EOLhyphen"/>vid</hi>'s Judgement ſo Op<g ref="char:EOLhyphen"/>preſſive, his Sentence ſo Injurious.</p>
+            <p>This is the third Uſe, <hi>A Word of Encouragement.</hi>
+            </p>
+            <p>Is Conſcience with<g ref="char:EOLhyphen"/>out Laws, <hi>&amp;c.</hi>
+               <note place="margin">
+                  <hi>Uſe</hi> 4.</note> Then let this humble the wiſeſt and beſt of Men, while our Doctrine diſ<g ref="char:EOLhyphen"/>plays before them their own Frailties. Let them bluſh to ſee what poor contracted things they are; how eaſily turn'd aſide with every ſlanderous Breath; how
+<pb n="94" facs="tcp:63653:67"/>unable to judge, even the ſmalleſt matters.</p>
+            <p>Nor may any ob<g ref="char:EOLhyphen"/>ject, what ſome have ſaid concerning Na<g ref="char:EOLhyphen"/>tures Law, (from which <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or primary act of Conſcience, dif<g ref="char:EOLhyphen"/>fers onely <hi>ratione</hi>) that this Law is the cleareſt Light, the beſt Guide; for I have heard that al<g ref="char:EOLhyphen"/>ready: and that thoſe who act according to its Dictates cannot erre; for I have heard that too. I have read theſe and other the like En<g ref="char:EOLhyphen"/>comiums of Nature: <hi>Idem beatè vivere &amp; ſe<g ref="char:EOLhyphen"/>cundum Naturam, ad il<g ref="char:EOLhyphen"/>lius
+<pb n="95" facs="tcp:63653:67"/>Legem Exemplumque formari ſapientia est.</hi> But pray who was it that thus commended Na<g ref="char:EOLhyphen"/>ture, but ſome con<g ref="char:EOLhyphen"/>ceited Stoick; ſome purblind Heathens, who had loſt their eyes with doating ſo fondly upon ſo foul a Miſtris? Doth not Scripture teach us, that <hi>Nature</hi> is bruitiſh, blinde and dark? Doth not Experience teach us, that <hi>Conſcience</hi> is turn'd and <hi>Ignis fatuus,</hi> and leads us into the paths of Er<g ref="char:EOLhyphen"/>ror? 'Twas once in<g ref="char:EOLhyphen"/>deed a Star of the firſt Magnitude a bright and ſhining Taper: But
+<pb n="96" facs="tcp:63653:68"/>alas! how is it now de<g ref="char:EOLhyphen"/>praved? how ſurround<g ref="char:EOLhyphen"/>ed with ſmoak and blackneſs? It receives its Light onely from an eclipſed Sun, from a beclouded Intellect; and that Moon which doth ſo, will ſhine but feebly.</p>
+            <p>This is the fourth Uſe, <hi>A Word of Humiliation.</hi>
+            </p>
+            <p>If the Conſciences of wiſe and good Men be ſo unſafe a Rule, <hi>&amp;c.</hi> Then,<note place="margin">
+                  <hi>Uſe</hi> 5.</note>
+            </p>
+            <p n="1">1. <hi>Hence we may learn,</hi> what pitiful work would wicked
+<pb n="97" facs="tcp:63653:68"/>Men and Fools have made? what lament<g ref="char:EOLhyphen"/>able Stories would a little Experience have told of ſuch? How many Innocents muſt have groaned under the Preſſure of their Ri<g ref="char:EOLhyphen"/>diculous and Unjuſt Decrees? If a Sen<g ref="char:EOLhyphen"/>tence ſo Unreaſonable, (as this in our Text) drop from <hi>David</hi>'s Mouth, what may we expect from <hi>Saul</hi>'s? <hi>Ziba</hi> ſo far prevail'd with the Former, as to rob one Man of his Eſtate; but <hi>Doeg</hi> ſo far with the Latter, as to bereave ſome
+<pb n="98" facs="tcp:63653:69"/>Hundreds of their Lives: Fourſcore and five of the Lord's Prieſts may dye their Ephods in their own Blood, 1 <hi>Sam.</hi> 22. He choſe the better part, who deſired, rather to Live under the moſt cruel Tyrant that a<g ref="char:EOLhyphen"/>cted by a Declared Rule, then under the beſt Prince without it. And if the Holieſt Men in theſe Nations, with<g ref="char:EOLhyphen"/>out the Guidance of known Laws, be un<g ref="char:EOLhyphen"/>capable of ſo great a Truſt; Then, doubt<g ref="char:EOLhyphen"/>leſs for the Conſciences of Malicious Selfiſh
+<pb n="99" facs="tcp:63653:69"/>Hypocrites to be made the Standards of Right and Wrong, had been moſt ſad, and dan<g ref="char:EOLhyphen"/>gerous.</p>
+            <p n="2">2. <hi>Hence we may learn,</hi> to look back, with ſilent Admirati<g ref="char:EOLhyphen"/>on, upon that deſpe<g ref="char:EOLhyphen"/>rate Rock we have e<g ref="char:EOLhyphen"/>ſcaped; to review that Unavoidable Ruine, which ſo lately threat<g ref="char:EOLhyphen"/>ned us, with a thank<g ref="char:EOLhyphen"/>ful Aſtoniſhment. 'Tis not long ſince we ſaw ſome ſeated in the room of the Judge, who nei<g ref="char:EOLhyphen"/>ther knew the Laws, nor pretended to act by them. 'Tis not long
+<pb n="100" facs="tcp:63653:70"/>ſince Wiſe Men in a Diſtracted Poſture, ſtood gazing upon each other, liſtning dili<g ref="char:EOLhyphen"/>gently what horrible Deſolations their miſ<g ref="char:EOLhyphen"/>guided Zeal would give Birth unto, whoſe Grand Conſultations were, how to raſe the Foundation of this Commonwealth, and Extirpate its Laws. Hath that Eye which neither ſlumbers nor ſleeps prevented this? Break forth into praiſes for ſo great, ſo unde<g ref="char:EOLhyphen"/>ſerved a Mercy.</p>
+            <p n="3">3. <hi>Hence we may learn,</hi> To <hi>bleſs the Lord for</hi> that
+<pb n="101" facs="tcp:63653:70"/>eminent Aſſiſtance and Direction he graciouſly vouchſafed his Servants lately aſſembled in Par<g ref="char:EOLhyphen"/>liament: To <hi>bleſs the Lord for</hi> giving them Courage and Reſolu<g ref="char:EOLhyphen"/>tion to aſſert the known Laws of theſe Nations, the ſtanding Rule by which they muſt be go<g ref="char:EOLhyphen"/>vern'd: To <hi>bleſs the Lord for</hi> putting into their hands that <hi>Ariadne</hi>'s Thread, which hath been their Conduct to ſo hopeful a Settlement, through the thick Dark<g ref="char:EOLhyphen"/>neſs of former and late Confuſions: Yea, To <hi>bleſs the Lord</hi> that out
+<pb n="102" facs="tcp:63653:71"/>Supreme Magiſtrate is now a ſecond time en<g ref="char:EOLhyphen"/>gaged by Oath to Ma<g ref="char:EOLhyphen"/>nage his Great and Weighty Truſt, accor<g ref="char:EOLhyphen"/>ding to the Laws of this Commonwealth: And that in ſo good a Mea<g ref="char:EOLhyphen"/>ſure God hath reſtored our Judges as at the firſt, and our Counſel<g ref="char:EOLhyphen"/>lors as at the beginning.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
